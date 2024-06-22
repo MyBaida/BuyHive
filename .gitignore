@@ -1,0 +1,9 @@
+
+# dependencies
+Ecombackend/E-Commerce-Frontend/node_modules
+Ecombackend/E-Commerce-Frontend/.pnp
+.pnp.js
+
+
+# production
+Ecombackend/E-Commerce-Frontend/build
