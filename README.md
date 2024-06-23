@@ -43,9 +43,10 @@ Follow these steps to set up the project on your local machine:
 
 ### Backend Setup
 
-1. Navigate to the backend directory: `Ecombackend`
-2. Install backend dependencies: `pip install -r requirements.txt`
-3. Run the Django development server: `python manage.py runserver`
+1. Navigate to the backend directory: `E-Commerce-Backend`
+2. Navigate to the django project: `Ecombackend`
+3. Install backend dependencies: `pip install -r requirements.txt`
+4. Run the Django development server: `python manage.py runserver`
 
 ### Frontend Setup
 
