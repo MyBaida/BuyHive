@@ -6,15 +6,20 @@ BuyHive is a comprehensive eCommerce website developed using Django for the back
 
 ## Features
 
+### Customer Features
+
 - **Product Listings:** Browse through a wide range of products with detailed descriptions, images, and prices.
 - **User Authentication:** Secure user registration and login system.
 - **Shopping Cart:** Add, remove, and update items in the shopping cart.
-- **Checkout Process:** Smooth and secure checkout process with payment integration.
-- **Responsive Design:** Optimized for both desktop and mobile devices.
-- **Admin Dashboard:** Manage products, categories, and orders efficiently.
-- **Category Filtering:** Filter products by categories to easily find what you are looking for.
-- **Account Management:** Change user details like username, email, and password.
-- **Order History:** View your past orders and their statuses.
+- **Checkout Process:** Smooth and secure checkout process.
+- **Category Filtering:** Filter products by categories to find specific items easily.
+
+### Admin Features
+
+- **Order Management:** View and manage all orders made by customers.
+- **Product Management (CRUD):** Create, read, update, and delete products.
+- **Category Management (CRUD):** Create, read, update, and delete categories.
+- **User Management (CRUD):** Manage user accounts and permissions.
 
 ## Technologies Used
 
